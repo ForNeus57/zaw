@@ -192,4 +192,9 @@ cython_debug/
 11/Test images-pedestrians.zip
 11/data/*
 
+12/data
+
+13/data
+13/shapes_rotation.zip
+
 14/video_2.mp4
